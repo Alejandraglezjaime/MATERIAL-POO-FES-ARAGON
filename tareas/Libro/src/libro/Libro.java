@@ -5,11 +5,8 @@ import libro.datos.Autor;
 import libro.datos.Editorial;
 import libro.dt.partes;
 
+/** @author alejandraglezj */
 
-/**
- *
- * @author alejandraglezj
- */
 public class Libro {
     /**  @param args the command line arguments */
     
