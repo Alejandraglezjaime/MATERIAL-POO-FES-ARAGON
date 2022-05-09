@@ -4,6 +4,8 @@
  */
 package usuariointerfaces;
 
+import ico.fes.iu.miVentanadeAccion2;
+import ico.fes.iu.swing.ventanaSwing;
 import ico.fes.iu.ventana;
 
 /**
@@ -15,9 +17,12 @@ public class UsuarioInterfaces {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-          ventana w = new ventana();
+    public static void main(String[] args) {        
+       //   ventana w = new ventana();
+       // miVentanadeAccion2 y2 = new miVentanadeAccion2();
+        ventanaSwing vs = new ventanaSwing();
+        
+        
     }
     
 }
